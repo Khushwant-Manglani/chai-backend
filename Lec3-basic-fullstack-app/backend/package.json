@@ -1,0 +1,22 @@
+{
+  "name": "basic-fullstack-backend",
+  "version": "1.0.0",
+  "description": "It contains the backend of basic fullstack app.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "react"
+  ],
+  "author": "Khushwant Manglani",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
