@@ -1,0 +1,29 @@
+{
+  "name": "todo-data-models",
+  "version": "1.0.0",
+  "description": "This folder contains an todo data models for practice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khushwant-Manglani/chai-backend.git#main"
+  },
+  "keywords": [
+    "backend",
+    "express",
+    "mongoose",
+    "models"
+  ],
+  "author": "Khushwant Manglani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khushwant-Manglani/chai-backend/issues"
+  },
+  "homepage": "https://github.com/Khushwant-Manglani/chai-backend/tree/main#readme",
+  "dependencies": {
+    "mongoose": "^8.3.4"
+  }
+}
